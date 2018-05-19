@@ -5,6 +5,9 @@
 :computer::computer::computer:  
 :iphone::iphone::iphone:  
 
+Inline-style: 
+![alt text](https://github.com/josewtf01/save_ug_guanahacks_18/blob/master/Logo_SaveU.png "Logo Title Text 1")
+
 Prenda inteligente que proporciona al usuario una forma
 de prevenir delitos.  
 El desarrollo es un pulsera inteligente dotada de varios sensores.
