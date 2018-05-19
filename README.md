@@ -16,7 +16,7 @@ Además contará con una aplicación para smartphone, la cual le dara
 una personalización de acuerdo a las necesidades del usuario
 
 # referencias:  
-1. Item 1
+1. [Arduino Pro Mini](https://articulo.mercadolibre.com.mx/MLM-617891483-arduino-pro-mini-atmega328-_JM)
 2. Item 2
 3. Item 3
 4. Item 4
