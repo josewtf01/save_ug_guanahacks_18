@@ -4,5 +4,8 @@
 
 :computer::computer::computer:  
 :iphone::iphone::iphone:  
-Proyecto creado debido a la fuerte necesidad de prevenir
-asaltos o delitos 
+Prenda inteligente que proporciona al usuario una forma
+de sentirse protegido.  
+El desarrollo es un pulsera inteligente dotada de varios sensores.
+Los cuales nos ayudaran a hacer un rastreo del usuario en todo momento.
+Además contará con una aplicación para smartphone.
