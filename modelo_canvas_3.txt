@@ -1,0 +1,57 @@
+1.- propuestas de valor:
+- novedoso
+- confiable
+- discreto
+- facilidad
+- rapidez
+- reducción de coste
+- diseño
+
+2.- Segmentos de clientes:
+- instituciones educativas publicas y/o privadas
+- a futuro-> publico en general
+
+3.- Canales:
+- aplicación movil
+- sitio web
+- atención a clientes ,bot y/o persona física.
+- retroalimentación de mejoras o problemas particulares
+- llevar la propuesta a través de campaña de prevención
+dentro de las escuelas
+
+4.- Relaciones con los clientes:
+- Asistencia personal
+- asistencia personal dedicada
+- Autoservicio
+- A futuro unión entre dispositivos
+
+5.- Fuentes de ingreso:
+- contrato con las instituciones educativas privadas
+y/o publicas
+- a futuro -> ventas a través de cadenas comerciales
+- publicidad de seguridad en la aplicación.
+
+6.- Recursos clave:
+- Patente
+- propiedad intelectual
+- distribuidor de componentes
+- empresa de fabricación
+
+7.- Actividades clave:
+- mantenimiento del sitio web
+- mantenimiento de la aplicación
+- diseño de pulsera
+- implementación de pruebas en diferentes entornos 
+para abarcar la mayor cantidad de areas posibles.
+
+8.- Socios clave:
+- Distribuidora de componentes
+- empresa de manufactura
+- a futuro -> cadenas comerciales
+- a futuro -> instituciones internacionales
+
+9.- Estructura de costes:
+- costos de modulos y componentes
+- mantenimiento de los servidores
+- mantenimiento de la app
+- diseño y manufactura.

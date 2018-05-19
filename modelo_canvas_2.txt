@@ -1,0 +1,45 @@
+1.- propuesta de valor
+- Discresión, seguridad, tranquilidad.
+- facilidad y rápidez de alerta de panico
+- localización en timpo real
+- sistema de impacto preventivo
+- rutas de traslado seguras a través de machine learning
+- sistema a cargo de servidores para proporcionar el servicio
+- costo reducido, usabilidad.
+
+d2.- relación con clientes
+- vendemos producto o servicio ?
+
+d3.- segmentos de clientes
+- Universidades y prepas 
+- a futuro -> publico en general.
+
+d4.- canales
+- inscripción con la universidad.
+- aplicación
+- kardex -> sistema de NIP único.
+- Paquete de ingreso de a la universidad.
+- Internet
+- Cadenas comerciales
+
+
+d5.- fuentes de ingreso
+- venta del producto
+- renta del servicio
+
+i6.- actividades clave
+- diseño e implementación de la pulsera
+- gestión del sitio web
+- mantenimiento y desarrollo de la aplicación
+
+i7.- socios clave
+- empresa de fabricación de pulseras (prendas inteligentes)
+- a futuro -> cadenas comerciales
+
+i8.- recursos clave
+- applicacion movil y sitio web
+
+i9.- estructura de los costos
+- fabricación de la pulsera o prenda inteligente
+- envio
+- mantenimiento de servidores

@@ -1,0 +1,31 @@
+1.- Segmentación:
+- Universidades y prepas 
+- a futuro -> publico en general.
+
+2.- Propuesta de valor: 
+- Discresión, seguridad, tranquilidad.
+- facilidad y rápidez de alerta de panico
+- localización en timpo real
+- sistema de impacto preventivo
+- rutas de traslado seguras a través de machine learning
+- sistema a cargo de servidores para proporcionar el servicio
+- costo reducido, usabilidad.
+
+3.- Canales:
+- inscripción con la universidad.
+- aplicación
+- kardex -> sistema de NIP único.
+- Paquete de ingreso de a la universidad.
+- Internet
+- Cadenas comerciales
+
+4.- Relaciones con los clientes.
+- vendemos producto o servicio ?
+
+
+5.- Fuentes de ingreso
+- venta del producto
+- renta del servicio
+
+6.- Recursos claves 
+- applicacion movil y sitio web
