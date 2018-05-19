@@ -17,6 +17,6 @@ una personalización de acuerdo a las necesidades del usuario
 
 # referencias:  
 1. [Arduino Pro Mini](https://articulo.mercadolibre.com.mx/MLM-617891483-arduino-pro-mini-atmega328-_JM)
-2. Item 2
+2.[HC-05 módulo bluetooth ](https://articulo.mercadolibre.com.mx/MLM-553731536-modulo-bluetooth-hc-05-inalambrico-maestro-esclavo-arduino-_JM)
 3. Item 3
 4. Item 4
