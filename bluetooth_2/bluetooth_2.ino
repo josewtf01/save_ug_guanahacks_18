@@ -1,5 +1,6 @@
 #include <SoftwareSerial.h>
 SoftwareSerial miBT(4,5);
+char cadena[10] = "h";
 void setup() {
   // put your setup code here, to run once:
 Serial.begin(9600);
@@ -13,5 +14,8 @@ if(miBT.available())
 Serial.write(miBT.read());
 
 if(Serial.available())
-miBT.write(Serial.read());
+{
+  miBT.write(Serial.read());
+  //miBT.write("hola#");
+  }
 }

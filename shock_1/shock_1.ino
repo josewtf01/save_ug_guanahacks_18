@@ -46,7 +46,7 @@ void checkSensor()
   if(contador >= 7)
       {
         Serial.println("madres........");
-        digitalWrite(5,HIGH);
+        digitalWrite(2,HIGH);
         delay(5000);
         contador =0;
         digitalWrite(5,LOW);
