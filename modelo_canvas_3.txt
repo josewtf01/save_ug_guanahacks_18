@@ -38,6 +38,7 @@ y/o publicas
 - empresa de fabricación
 
 7.- Actividades clave:
+-monitoreo de zonas peligrosas
 - mantenimiento del sitio web
 - mantenimiento de la aplicación
 - diseño de pulsera
