@@ -1,0 +1,9 @@
+- historia
+- problematica
+- presentación Save U
+- Métodologia Agile
+- Explicación dispositivo -> Demo
+- Explicación app movil
+- independencia uno del otro 
+- Metas
+- código QR
